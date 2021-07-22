@@ -6,9 +6,9 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: LGR API
-    url: https://api.lgrd-hk.boulevardduluxe.com/healthcheck
+    url: $LGR_API
   - name: LGR platform
-    url: https://loyalty.lgrd-hk.boulevardduluxe.com/healthcheck
+    url: $LGR_PLAT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
