@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 91,
-    "timeDay": 67,
-    "timeWeek": 127,
-    "timeMonth": 95,
-    "timeYear": 91,
+    "time": 90,
+    "timeDay": 83,
+    "timeWeek": 131,
+    "timeMonth": 96,
+    "timeYear": 90,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lgr-api",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 1022,
-    "timeDay": 1138,
-    "timeWeek": 1047,
-    "timeMonth": 1019,
-    "timeYear": 1022,
+    "uptimeYear": "99.90%",
+    "time": 1019,
+    "timeDay": 910,
+    "timeWeek": 1025,
+    "timeMonth": 1018,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2021-08-16": 49
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
-    "time": 976,
-    "timeDay": 1138,
-    "timeWeek": 1043,
-    "timeMonth": 969,
-    "timeYear": 976,
+    "time": 974,
+    "timeDay": 906,
+    "timeWeek": 1021,
+    "timeMonth": 967,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2021-08-16": 47
     }
