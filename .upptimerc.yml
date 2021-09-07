@@ -9,6 +9,13 @@ sites:
     url: $LGR_API
   - name: LGR platform
     url: $LGR_PLAT
+  - name: ST1 API
+    url: $ST1_API
+  - name: ST2 API
+    url: $ST2_API
+  - name: ST3 API
+    url: $ST3_API
+   
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
