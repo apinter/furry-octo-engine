@@ -62,19 +62,19 @@
     "url": "$ST1_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "st-1-api",
-    "status": "down",
-    "uptime": "5.11%",
-    "uptimeDay": "5.11%",
-    "uptimeWeek": "5.11%",
-    "uptimeMonth": "5.11%",
-    "uptimeYear": "5.11%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.83%",
+    "uptimeDay": "1.83%",
+    "uptimeWeek": "1.83%",
+    "uptimeMonth": "1.83%",
+    "uptimeYear": "1.83%",
+    "time": 583,
+    "timeDay": 583,
+    "timeWeek": 583,
+    "timeMonth": 583,
+    "timeYear": 583,
     "dailyMinutesDown": {
-      "2021-09-07": 0
+      "2021-09-07": 8
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "$ST2_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "st-2-api",
-    "status": "down",
-    "uptime": "2.19%",
-    "uptimeDay": "2.19%",
-    "uptimeWeek": "2.19%",
-    "uptimeMonth": "2.19%",
-    "uptimeYear": "2.19%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.31%",
+    "uptimeDay": "1.31%",
+    "uptimeWeek": "1.31%",
+    "uptimeMonth": "1.31%",
+    "uptimeYear": "1.31%",
+    "time": 577,
+    "timeDay": 577,
+    "timeWeek": 577,
+    "timeMonth": 577,
+    "timeYear": 577,
     "dailyMinutesDown": {
-      "2021-09-07": 0
+      "2021-09-07": 8
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "$ST3_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "st-3-api",
-    "status": "down",
-    "uptime": "5.44%",
-    "uptimeDay": "5.44%",
-    "uptimeWeek": "5.44%",
-    "uptimeMonth": "5.44%",
-    "uptimeYear": "5.44%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.99%",
+    "uptimeDay": "0.99%",
+    "uptimeWeek": "0.99%",
+    "uptimeMonth": "0.99%",
+    "uptimeYear": "0.99%",
+    "time": 565,
+    "timeDay": 565,
+    "timeWeek": 565,
+    "timeMonth": 565,
+    "timeYear": 565,
     "dailyMinutesDown": {
-      "2021-09-07": 0
+      "2021-09-07": 8
     }
   }
 ]
