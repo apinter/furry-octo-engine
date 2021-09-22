@@ -98,9 +98,9 @@
     "url": "$ST3_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "st-3-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +109,8 @@
     "timeWeek": 714,
     "timeMonth": 660,
     "timeYear": 660,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-22": 0
+    }
   }
 ]
