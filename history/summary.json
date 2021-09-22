@@ -98,7 +98,7 @@
     "url": "$ST3_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "st-3-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "98.57%",
     "uptimeWeek": "99.80%",
