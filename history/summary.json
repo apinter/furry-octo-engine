@@ -13,7 +13,7 @@
     "time": 119,
     "timeDay": 53,
     "timeWeek": 99,
-    "timeMonth": 139,
+    "timeMonth": 141,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1006,
     "timeDay": 1140,
     "timeWeek": 1039,
-    "timeMonth": 998,
+    "timeMonth": 1002,
     "timeYear": 1006,
     "dailyMinutesDown": {
       "2021-08-16": 49
@@ -71,7 +71,7 @@
     "time": 490,
     "timeDay": 361,
     "timeWeek": 476,
-    "timeMonth": 490,
+    "timeMonth": 487,
     "timeYear": 490,
     "dailyMinutesDown": {}
   },
@@ -89,7 +89,7 @@
     "time": 445,
     "timeDay": 178,
     "timeWeek": 332,
-    "timeMonth": 445,
+    "timeMonth": 441,
     "timeYear": 445,
     "dailyMinutesDown": {}
   },
@@ -98,18 +98,19 @@
     "url": "$ST3_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "st-3-api",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
-    "time": 738,
-    "timeDay": 1604,
-    "timeWeek": 1012,
-    "timeMonth": 738,
-    "timeYear": 738,
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.21%",
+    "time": 1193,
+    "timeDay": 5479,
+    "timeWeek": 2621,
+    "timeMonth": 1211,
+    "timeYear": 1193,
     "dailyMinutesDown": {
+      "2021-10-07": 0,
       "2021-09-22": 350
     }
   }
