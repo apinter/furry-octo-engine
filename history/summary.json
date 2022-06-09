@@ -22,10 +22,10 @@
     "url": "$LGR_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lgr-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "79.48%",
-    "uptimeWeek": "74.51%",
+    "uptimeDay": "79.44%",
+    "uptimeWeek": "74.50%",
     "uptimeMonth": "89.63%",
     "uptimeYear": "99.02%",
     "time": 3143,
@@ -34,6 +34,7 @@
     "timeMonth": 6803,
     "timeYear": 3143,
     "dailyMinutesDown": {
+      "2022-06-09": 1,
       "2022-06-08": 296,
       "2022-06-07": 476,
       "2022-06-06": 462,
@@ -58,8 +59,7 @@
       "2022-05-17": 4,
       "2022-05-16": 49,
       "2022-05-15": 21,
-      "2022-05-11": 39,
-      "2022-04-14": 17
+      "2022-05-11": 39
     }
   },
   {
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2022-06-09": 28,
+      "2022-06-09": 36,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
