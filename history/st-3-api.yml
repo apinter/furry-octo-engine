@@ -1,7 +1,7 @@
 url: $ST3_API
-status: down
-code: 403
-responseTime: 45
-lastUpdated: 2022-06-30T06:59:44.860Z
+status: up
+code: 200
+responseTime: 754
+lastUpdated: 2022-06-30T07:21:10.972Z
 startTime: Tue Sep 07 2021 06:34:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
